@@ -115,7 +115,7 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : shareholic
+    provider : like
          
          
   # Settings for all other include helpers can be defined by creating 
