@@ -116,20 +116,22 @@ JB :
   #
   sharing :
     provider : plusone
-       twitter :
+    twitter :
          size :
          via :
          count :
-     facebook :
+    facebook :
          appid : 123
          layout : button_count
          font :
          faces : false
          width : 90
-     googleplus :
+    googleplus :
          size : medium
          width :
          annotation : bubble
+         
+         
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:
   #
