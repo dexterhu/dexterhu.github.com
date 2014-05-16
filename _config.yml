@@ -115,7 +115,7 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : plusone
+    provider : all
     twitter :
          size :
          via :
